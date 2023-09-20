@@ -1,0 +1,59 @@
+{
+  "name": "Elizabete de Sousa Fabri",
+  "photo": "https://avatars.githubusercontent.com/u/67619417?s=96&v=4",
+  "job": "Desenvolvedor(a) Web FrontEnd",
+  "location": "Jahu - SP",
+  "phone": "(14) 99600-8131",
+  "email": "elizabete@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/elizabetefabri/portfolio/main/data/imgs/github.png"
+      },
+      
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/elizabetefabri/portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/elizabetefabri/portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "MySql",
+        "logo": "https://raw.githubusercontent.com/elizabetefabri/portfolio/main/data/imgs/mysql.png"
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Listagem de uma Pokedex",
+      "url": "https://github.com/elizabetefabri/dio-bootcamp-angular-java/tree/main/desafios/01-js-pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/elizabetefabri/",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Arquiteto de software / S3 BANK",
+      "period": "2022 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+    }
+  ]
+}
