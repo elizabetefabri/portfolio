@@ -4,7 +4,7 @@
   "job": "Desenvolvedor(a) Web FrontEnd",
   "location": "Jahu - SP",
   "phone": "(14) 99600-8131",
-  "email": "elizabete@gmail.com",
+  "email": "elizabetefabri@outlook.com",
   "skills": {
     "hardSkills": [
       {
@@ -42,17 +42,12 @@
       "name": "Listagem de uma Pokedex",
       "url": "https://github.com/elizabetefabri/dio-bootcamp-angular-java/tree/main/desafios/01-js-pokedex",
       "github": true
-    },
-    {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/elizabetefabri/",
-      "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
+      "name": "Estágiaria de software / Câmara Municipal Jahu",
+      "period": "2022 - 6 meses",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     }
   ]
