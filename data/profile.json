@@ -13,15 +13,15 @@
       },
       
       {
-        "name": "Angular",
+        "icon-name": "Angular",
         "logo": "https://raw.githubusercontent.com/elizabetefabri/portfolio/main/data/imgs/angular.png"
       },
       {
-        "name": "React",
+        "icon-name": "React",
         "logo": "https://raw.githubusercontent.com/elizabetefabri/portfolio/main/data/imgs/react.png"
       },
       {
-        "name": "MySql",
+        "icon-name": "MySql",
         "logo": "https://raw.githubusercontent.com/elizabetefabri/portfolio/main/data/imgs/mysql.png"
       }
     ],
